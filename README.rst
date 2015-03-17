@@ -8,7 +8,7 @@ Warmup Tasks
 :College: CUNY School of Professional Studies
 :Course-Name: Software Application Programming I
 :Course-Code: IS 210
-:Points: 9
+:Points: 12
 :Due-Date: YYYY-MM-DDTHH:mm:ss
 
 Overview
@@ -60,7 +60,7 @@ Specifications
     This is a Python trait known as *multiple assignment* and is part of the
     magic of tuple unpacking since the right side of the assignment operator is
     a tuple (without its parentheses). This is is a key feature of our
-    particular implementation since the following is not equivalent:
+    particular implementation since the following is **not** equivalent:
 
     .. code:: python
 
